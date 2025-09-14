@@ -6,8 +6,3 @@
 - This process highlights how IaaS allows us to directly manage and control fundamental cloud resources, such as compute, storage, and networking.
 - Furthermore, the integration with a Log Analytics Workspace showcases the importance of monitoring in cloud management, providing the capability to collect and analyze operational data for performance and security purposes.
 - The SSH connection and subsequent execution of commands like uname -a and df -h confirmed that the VM was not just a static instance but a fully functional, remotely accessible server ready for deployment and management tasks.
-
-## Task 1: Create a Virtual Machine
-
-Below is a screenshot of the VM's configuration page, showing the selected region and size.
-
