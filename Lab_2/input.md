@@ -11,7 +11,7 @@
 >
 > ● cst8912_vnet0 in the Canada Central region.\
 > ● cst8912_vnet1 in the Canada Central region.\
-> ● cst8912_vnet2 in the West US 2 region.
+> ● cst8912_vnet2 in the West US 2 region.\
 
 <img src="./zeqpdk2k.png" style="width:6.5in;height:1.34375in" />
 
@@ -22,19 +22,19 @@
 
 > 4\. I configured a VNet Peering connection between:
 >
-> ● cst8912_vnet0 (Canada Central) and cst8912_vnet1 (Canada Central). 
-> ● cst8912_vnet0 (Canada Central) and cst8912_vnet2 (West US 2).
-> ● cst8912_vnet1 (Canada Central) and cst8912_vnet2 (West US 2). 
-> ● I ensured that the peering was bi-directional for full connectivity.
+> ● cst8912_vnet0 (Canada Central) and cst8912_vnet1 (Canada Central).\
+> ● cst8912_vnet0 (Canada Central) and cst8912_vnet2 (West US 2).\
+> ● cst8912_vnet1 (Canada Central) and cst8912_vnet2 (West US 2).\
+> ● I ensured that the peering was bi-directional for full connectivity.\
 >
 <img src="./lcckfgpp.png" style="width:6.5in;height:1.67708in" />
 
 > 5\. I deployed three Windows Server virtual machines to serve as test
 > endpoints.
 >
-> ● VM0 was deployed into cst8912_vnet0.
-> ● VM1 was deployed into cst8912_vnet1.
-> ● VM2 was deployed into cst8912_vnet2.
+> ● VM0 was deployed into cst8912_vnet0.\
+> ● VM1 was deployed into cst8912_vnet1.\
+> ● VM2 was deployed into cst8912_vnet2.\
 
 <img src="./o3sgyl2i.png" style="width:6.5in;height:3.20833in" />
 
@@ -45,10 +45,10 @@
 > 6\. I used Remote Desktop Protocol (RDP) to connect to VM0.
 >
 > ● From VM0, I opened PowerShell to test the connections to VM1 and VM2
-> using the Test-NetConnection command and their private IP addresses.
+> using the Test-NetConnection command and their private IP addresses.\
 > ● I successfully confirmed that TcpTestSucceeded returned True for the
 > connection from VM0 to VM1 and from VM0 to VM2. This proves that the
-> global and local peering connections are working correctly.
+> global and local peering connections are working correctly.\
 
 <img src="./tkcnz0km.png" style="width:6.5in;height:3.38542in" />
 
