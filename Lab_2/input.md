@@ -9,8 +9,8 @@
 
 > 2\. I created three separate virtual networks.
 >
-> ● cst8912_vnet0 in the Canada Central region.
-> ● cst8912_vnet1 in the Canada Central region.
+> ● cst8912_vnet0 in the Canada Central region.\
+> ● cst8912_vnet1 in the Canada Central region.\
 > ● cst8912_vnet2 in the West US 2 region.
 
 <img src="./zeqpdk2k.png" style="width:6.5in;height:1.34375in" />
