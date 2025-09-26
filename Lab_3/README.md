@@ -2,7 +2,7 @@
 
 1.  Creating the Storage Account
 
-![](media/image3.png){width="6.5in" height="3.0277777777777777in"}
+<img src="./1.png" style="width:6.5in;height:3.21875in" />
 
 2.  Modifying Redundancy
 
