@@ -6,20 +6,20 @@
 
 2.  Modifying Redundancy
 
-![](media/image1.png){width="6.5in" height="2.9305555555555554in"}
+<img src="./2.png" style="width:6.5in;height:3.21875in" />
 
 3.  Building Containers
 
-![](media/image2.png){width="6.5in" height="3.0in"}
+<img src="./3.png" style="width:6.5in;height:3.21875in" />
 
 4.  Uploading a blob
 
-![](media/image6.png){width="6.5in" height="2.9722222222222223in"}
+<img src="./4.png" style="width:6.5in;height:3.21875in" />
 
 5.  Creating [Lifecycle Management Rule]{.mark}
 
-![](media/image4.png){width="6.5in" height="3.013888888888889in"}
+<img src="./5.png" style="width:6.5in;height:3.21875in" />
 
 6.  Testing private access
 
-![](media/image5.png){width="6.5in" height="3.013888888888889in"}
+<img src="./6.png" style="width:6.5in;height:3.21875in" />
